@@ -25,7 +25,4 @@ GiRaF is a command-line program that reads NEXUS files (.nex) that contain phylo
 Input sequences and corresponding results for the real and synthetic influenza datasets studied using GiRaF can be found here: ftp://ftp.cbcb.umd.edu/pub/data/giraf<br />
 The result files in this directory were generated with version 0.9 of GiRaF.
 
-##Contact
-
-For questions and comments write to Niranjan at nagarajann@gis.a-star.edu.sg.
 
