@@ -1,7 +1,5 @@
 #GiRaF: Robust, Computational Identification of Influenza Reassortments via Graph Mining
 
-##Overview
-
 GiRaF is a computational tool for identification of [reassortments](https://en.wikipedia.org/wiki/Reassortment) in influenza viruses from sequence databases of isolates. Reassortments in influenza - a process where strains exchange genetic segments - have been implicated in 2 out of 3 pandemics of the 20th century as well as the 2009 H1N1 outbreak. GiRaF robustly identifies reassortments in a fully automated fashion while accounting for uncertainties in the inferred phylogenies. GiRaF relies on a fast consensus-search algorithm to confidently identify incompatible gene segment phylogenies that serve as signatures for reassortments. In experiments with synthetic datasets, GiRaF demonstrates high precision and sensitivity as well as robustness to complex reassortment histories. On human, avian and swine influenza datasets, GiRaF correctly identifies known reassortments as well novel events and can automatically catalog reassortment architectures based on all pairwise comparisons between gene segments.
 
 If you use GiRaF, please cite:
