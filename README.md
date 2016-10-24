@@ -12,7 +12,8 @@ Niranjan Nagarajan and Carl Kingsford. [GiRaF: robust, computational identificat
 
 Source code and executables for GiRaF are freely available. Unless you have a reason to do otherwise, use the latest version. The README.txt file contained in the distribution contains additional instructions about how to run GiRaF.
 
-Version 1.02: fixed crash when tree files contain branch lengths of the form 0.0e+1 (the + character was the problem).<br />
+Version 1.02: fixed crash when tree files contain branch lengths of the form 0.0e+1 (the + character was the problem).
+
 Older Versions:<br />
 Version 1.01: Faster, more reliable, pre-built Windows, Mac, and Linux executables.
 
