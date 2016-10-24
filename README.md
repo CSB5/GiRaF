@@ -21,12 +21,15 @@ Version 1.02: fixed crash when tree files contain branch lengths of the form 0.0
 Older Versions:<br />
 Version 1.01: Faster, more reliable, pre-built Windows, Mac, and Linux executables.
 
-The results obtained using version 1.0 may differ slightly from those obtained using version 0.9. If you want them to be as similar as possible use the command-line option --version-0.9-compat. Even then, version 1.0 and 0.9 can still differ a little bit.<br />
+The results obtained using version 1.0 may differ slightly from those obtained using version 0.9. If you want them to be as similar as possible use the command-line option --version-0.9-compat. Even then, version 1.0 and 0.9 can still differ a little bit.
+
 GiRaF is a command-line program that reads NEXUS files (.nex) that contain phylogenetic trees. GiRaF requires some way to build these collections of phylogenetic trees. One such package that has been tested with GiRaF is [MrBayes](http://mrbayes.sourceforge.net/).
 
 ##Datasets
 
-Input sequences and corresponding results for the real and synthetic influenza datasets studied using GiRaF can be found here: [FTP directory](ftp://ftp.cbcb.umd.edu/pub/data/giraf). The result files in this directory were generated with version 0.9 of GiRaF.
+Input sequences and corresponding results for the real and synthetic influenza datasets studied using GiRaF can be found here:<br />
+ftp://ftp.cbcb.umd.edu/pub/data/giraf<br />
+The result files in this directory were generated with version 0.9 of GiRaF.
 
 ##Contact
 
