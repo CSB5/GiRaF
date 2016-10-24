@@ -27,5 +27,5 @@ The result files in this directory were generated with version 0.9 of GiRaF.
 
 ##Contact
 
-For questions and comments write to niranjan at nagarajann@gis.a-star.edu.sg.
+For questions and comments write to Niranjan at nagarajann@gis.a-star.edu.sg.
 
