@@ -2,14 +2,14 @@
 
 GiRaF is a computational tool for identification of [reassortments](https://en.wikipedia.org/wiki/Reassortment) in influenza viruses from sequence databases of isolates. Reassortments in influenza - a process where strains exchange genetic segments - have been implicated in 2 out of 3 pandemics of the 20th century as well as the 2009 H1N1 outbreak. GiRaF robustly identifies reassortments in a fully automated fashion while accounting for uncertainties in the inferred phylogenies. GiRaF relies on a fast consensus-search algorithm to confidently identify incompatible gene segment phylogenies that serve as signatures for reassortments. In experiments with synthetic datasets, GiRaF demonstrates high precision and sensitivity as well as robustness to complex reassortment histories. On human, avian and swine influenza datasets, GiRaF correctly identifies known reassortments as well novel events and can automatically catalog reassortment architectures based on all pairwise comparisons between gene segments.
 
-From 2016 onward, the latest GiRaF information will be available here.<br />
-The previous GiRaF webpage can be found at http://www.cs.cmu.edu/~ckingsf/software/giraf/.
-
 If you use GiRaF, please cite:
 
 Niranjan Nagarajan and Carl Kingsford. [GiRaF: robust, computational identification of influenza reassortments via graph mining](http://nar.oxfordjournals.org/content/39/6/e34), Nuc. Acids Res. 39(6):e34 (2011).
 
 ![alt tag](img/Schematic.png)
+
+From 2016 onward, the latest GiRaF information will be available here.<br />
+The previous GiRaF webpage can be found at http://www.cs.cmu.edu/~ckingsf/software/giraf/.
 
 ##Updates
 
@@ -21,11 +21,9 @@ Currently, GiRaF also does not cater for outputs that are produced from [BEAST s
 
 Source code and executables for GiRaF are freely available. Unless you have a reason to do otherwise, use the latest version. The README.txt file contained in the distribution contains additional instructions about how to run GiRaF.
 
-Latest Version:<br />
 ###Version 1.02:<br />
 -Handles tree files that contain branch lengths of the form 0.0e+1 (the + character was the problem).
 
-Older Versions:<br />
 ###Version 1.01:<br />
 -Faster, more reliable, pre-built Windows, Mac, and Linux executables.
 
@@ -41,5 +39,5 @@ The result files in this directory were generated with version 0.9 of GiRaF.
 ##Contacts
 For more information, you may contact
 
-Niranjan, nagarajann@gis.a-star.edu.sg
+Niranjan, nagarajann@gis.a-star.edu.sg<br />
 Jayce, kohjy@gis.a-star.edu.sg
