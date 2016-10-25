@@ -9,13 +9,12 @@ Niranjan Nagarajan and Carl Kingsford. [GiRaF: robust, computational identificat
 ![alt tag](img/Schematic.png)
 
 From 2016 onward, the latest GiRaF information will be available here.<br />
+
 The previous GiRaF webpage can be found at http://www.cs.cmu.edu/~ckingsf/software/giraf/.
 
 ##Updates
 
-The output of the current MrBayes version, 3.2.6, is in a format that is incompatible with GiRaF.
-
-Currently, GiRaF also does not cater for outputs that are produced from [BEAST software](http://beast.bio.ed.ac.uk/).
+The output from the current MrBayes version (3.2.6) is in a format that is incompatible with GiRaF. Currently, GiRaF also does not cater for outputs produced from [BEAST software](http://beast.bio.ed.ac.uk/).
 
 ##Download
 
@@ -26,6 +25,7 @@ Source code and executables for GiRaF are freely available. Unless you have a re
 
 ###Version 1.01:<br />
 -Faster, more reliable, pre-built Windows, Mac, and Linux executables.
+
 
 The results obtained using version 1.0 may differ slightly from those obtained using version 0.9. If you want them to be as similar as possible use the command-line option --version-0.9-compat. Even then, version 1.0 and 0.9 can still differ a little bit.
 
